@@ -36,7 +36,7 @@
 
 ## 📊 GitHub Analytics  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DemonDeveloperHero&show_icons=true&theme=tokyonight&count_private=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DemonDeveloperHero&cache_seconds=86400)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=DemonDeveloperHero&theme=tokyonight&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DemonDeveloperHero&layout=compact&theme=tokyonight)  
 
