@@ -8,7 +8,7 @@
 - 🔭 Currently working on **Full-Stack Web Apps & Game Projects**  
 - 🌱 Expanding into **AI, Cybersecurity, and Cloud Computing**  
 - 🎯 Goal: Deliver **high-quality, real-world solutions**  
-- 🎥 Sharing knowledge and devlogs on [YouTube](https://youtube.com/@DemonDeveloperHero)  
+- 🎥 Sharing knowledge and devlogs on [YouTube](https://youtube.com/@HeroIndustriesOfficial)  
 - ⚡ Belief: *“Clean code, clean mind.”*  
 
 ---
