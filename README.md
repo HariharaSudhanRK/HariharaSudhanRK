@@ -36,16 +36,16 @@
 
 ## 📊 GitHub Analytics  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DemonDeveloperHero&cache_seconds=86400)  
-![GitHub Streak](https://streak-stats.demolab.com?user=DemonDeveloperHero&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DemonDeveloperHero&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HariharaSudhanRK&cache_seconds=86400)  
+![GitHub Streak](https://streak-stats.demolab.com?user=HariharaSudhanRK&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HariharaSudhanRK&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 🌎 Let’s Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@DemonDeveloperHero)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariharasudhan-r-k-29ba70352)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@HeroIndustriesOfficial)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=githubpages&logoColor=white)](#)  
 
