@@ -1,4 +1,4 @@
-# 👋 Hi, I'm HariharaSudhan
+# 👋 Hi, I'm HariharaSudhan R K
 
 ### 💻 Software Developer | 🎮 Game Designer | 🚀 Tech Explorer  
 
